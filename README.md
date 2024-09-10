@@ -16,6 +16,8 @@ The dataset, provided by Lyft Bikes and Scooters, LLC ("Bikeshare") through the 
 3. Weekly Trends: Members ride most during mid-week, whereas casual users prefer weekends.
 4. Peak Times: The ride length for both groups peaks at 5 PM and decreases sharply overnight. Members show a secondary peak at 8 AM, while casual users' ride length steadily increases until 5 PM. Members' activity starts at 4 AM, an hour earlier than casual users.
 5. January Abnormality: Casual users exhibit unique patterns in January, with more weekday activity and a slight increase in ride length between 1 and 2 AM.
+
+Tableau Public link: https://public.tableau.com/views/Cyclistic_1to5/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
    
 ### Based on these insights, I developed several marketing strategies:
 1. Targeted Promotions: Target casual users with personalized emails, ads, and app notifications that emphasize membership benefits during the one-hour window before and after peak times, specifically around 5 PM on weekends in February, March, April, and May. Shift the budget focus to weekdays in January instead.
