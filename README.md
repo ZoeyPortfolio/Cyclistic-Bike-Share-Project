@@ -3,8 +3,8 @@ I conducted an analysis for Cyclistic, a Chicago-based bike-share company, to su
 
 The dataset, provided by Lyft Bikes and Scooters, LLC ("Bikeshare") through the Divvy system, and owned by the City of Chicago, was extensive. 
 
-### I utilized Microsoft SQL to clean and process the data, performing tasks such as:
-1. converting datetime values to character months
+### I utilized Microsoft SQL to clean and transform the data, performing tasks such as:
+1. converting DateTime values to character months
 2. extracting and rounding time portions
 3. converting times to numerical representations
 4. calculating the length of rides
